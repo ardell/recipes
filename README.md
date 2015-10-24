@@ -1,5 +1,9 @@
-To run locally:
+To view
+-------
+Visit [http://ardell.github.io/recipes/](http://ardell.github.io/recipes/)
 
+To run locally
+--------------
 - clone this repository
 - `cd recipes`
 - `git checkout -b gh-pages origin/gh-pages`
