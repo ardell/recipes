@@ -1,6 +1,5 @@
 # Site settings
 title: Recipes We Like
-email: ardell@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   These are the recipes we like. Try them out and pull request if you can make
   them better.
