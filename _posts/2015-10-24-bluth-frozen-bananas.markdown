@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frozen Bananas"
+title:  "Bluth Frozen Bananas"
 date:   2015-10-24 13:22:21
 categories: desserts
 ---
