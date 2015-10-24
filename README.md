@@ -2,6 +2,7 @@ To run locally:
 
 - clone this repository
 - `cd recipes`
+- `git checkout -b gh-pages origin/gh-pages`
 - `echo 2.2.3 > .ruby-version`
 - `echo recipes > .ruby-gemset`
 - `cd .. && cd recipes`
