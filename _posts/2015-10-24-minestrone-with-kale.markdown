@@ -7,18 +7,18 @@ categories: soups dinner
 
 Ingredients
 -----------
-2 tsp olive oil   
-2 medium uncooked zucchini, quartered lengthwise and sliced 1/4-inch thick   
-10 medium uncooked baby carrots, halved widthwise if large   
-1 medium uncooked onion(s), chopped   
-2 cup(s) uncooked kale, coarsely chopped   
-28 oz canned diced tomatoes, with basil, garlic and oregano, undrained   
-4 cup(s) vegetable broth   
-15 oz canned great northern beans, drained and rinsed   
-1 cup(s) cooked orzo   
-1/4 tsp table salt   
-1/4 tsp black pepper   
-3/4 cup(s) grated Parmesan cheese, Parmigiano-Reggiano recommended   
+- 2 tsp olive oil
+- 2 medium uncooked zucchini, quartered lengthwise and sliced 1/4-inch thick
+- 10 medium uncooked baby carrots, halved widthwise if large
+- 1 medium uncooked onion(s), chopped
+- 2 cup(s) uncooked kale, coarsely chopped
+- 28 oz canned diced tomatoes, with basil, garlic and oregano, undrained
+- 4 cup(s) vegetable broth
+- 15 oz canned great northern beans, drained and rinsed
+- 1 cup(s) cooked orzo
+- 1/4 tsp table salt
+- 1/4 tsp black pepper
+- 3/4 cup(s) grated Parmesan cheese, Parmigiano-Reggiano recommended
 
 Instructions
 ------------
