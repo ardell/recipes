@@ -2,7 +2,7 @@
 layout: post
 title:  "Guacamole"
 date:   2015-10-24 13:33:04
-tags: sides
+tags: sides appetizers
 ---
 
 Ingredients
