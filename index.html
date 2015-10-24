@@ -14,7 +14,8 @@ layout: default
   {% for tag in sortedtags %}
     <h3 id="{{ tag }}">{{ tag | capitalize}}</h3>
     <ul>
-      {% for post in site.tags[tag] %}
+      {% assign sortedposts = site.tags[tag] | sort: 'title' %}
+      {% for post in sortedposts %}
         <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
