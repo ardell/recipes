@@ -2,7 +2,7 @@
 layout: post
 title:  "Banana Bread"
 date:   2015-10-24 14:07:26
-categories: breads breakfast
+tags: breads breakfast
 ---
 
 Ingredients

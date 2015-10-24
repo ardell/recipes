@@ -2,7 +2,7 @@
 layout: post
 title:  "Chicken Noodle Soup"
 date:   2015-10-24 13:44:35
-categories: soups dinner
+tags: soups dinner
 ---
 
 Serves: 6

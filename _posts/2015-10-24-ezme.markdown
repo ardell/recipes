@@ -2,7 +2,7 @@
 layout: post
 title:  "Ezme"
 date:   2015-10-24 13:30:16
-categories: sides
+tags: sides
 ---
 
 Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mulled Wine"
 date:   2015-10-24 13:22:21
-categories: tasty-beverages holiday
+tags: tasty-beverages holiday
 ---
 
 Ingredients

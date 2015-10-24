@@ -2,7 +2,7 @@
 layout: post
 title:  "Fruit Salad with Peaches, Blackberries, Strawberries, Basil & Black Pepper"
 date:   2015-10-24 13:30:16
-categories: sides breakfast
+tags: sides breakfast
 ---
 
 Ingredients

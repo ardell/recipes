@@ -2,7 +2,7 @@
 layout: post
 title:  "Lemon Risotto"
 date:   2015-10-24 14:51:15
-categories: sides
+tags: sides
 ---
 
 Ingredients

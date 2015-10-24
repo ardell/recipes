@@ -2,7 +2,7 @@
 layout: post
 title:  "Basmati Rice"
 date:   2015-10-24 13:33:04
-categories: sides
+tags: sides
 ---
 
 Ingredients

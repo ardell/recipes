@@ -2,7 +2,7 @@
 layout: post
 title:  "Tuna & Meyer Lemon Crostini"
 date:   2015-10-24 15:00:55
-categories: appetizers
+tags: appetizers
 ---
 
 Ingredients

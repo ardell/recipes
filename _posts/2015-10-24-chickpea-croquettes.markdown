@@ -2,7 +2,7 @@
 layout: post
 title:  "Chickpea Croquettes"
 date:   2015-10-24 14:56:29
-categories: sides
+tags: sides
 ---
 
 Ingredients

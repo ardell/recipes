@@ -2,7 +2,7 @@
 layout: post
 title:  "Sous Vide Pork Tenderloin"
 date:   2015-10-24 14:27:04
-categories: dinner
+tags: dinner
 ---
 
 Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title:  "Spring Black Rice"
 date:   2015-10-24 14:51:15
-categories: dinner
+tags: dinner
 ---
 
 Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title:  "Gio's Lemon Chicken"
 date:   2015-10-24 13:36:05
-categories: dinner
+tags: dinner
 ---
 
 Ingredients

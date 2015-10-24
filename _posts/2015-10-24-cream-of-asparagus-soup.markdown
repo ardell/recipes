@@ -2,7 +2,7 @@
 layout: post
 title:  "Cream of Asparagus Soup"
 date:   2015-10-24 13:16:32
-categories: soups dinner
+tags: soups dinner
 ---
 
 Ingredients

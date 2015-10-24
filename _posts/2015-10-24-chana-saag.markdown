@@ -2,7 +2,7 @@
 layout: post
 title:  "Chana Saag"
 date:   2015-10-24 14:13:10
-categories: dinner
+tags: dinner
 ---
 
 Ingredients

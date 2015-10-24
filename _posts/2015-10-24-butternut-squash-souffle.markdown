@@ -2,7 +2,7 @@
 layout: post
 title:  "Butternut Squash Souffle"
 date:   2015-10-24 14:07:26
-categories: sides desserts
+tags: sides desserts
 ---
 
 Ingredients

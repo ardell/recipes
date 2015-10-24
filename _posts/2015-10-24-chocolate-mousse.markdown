@@ -2,7 +2,7 @@
 layout: post
 title:  "Chocolate Mousse"
 date:   2015-10-24 15:16:33
-categories: desserts
+tags: desserts
 ---
 
 Ingredients

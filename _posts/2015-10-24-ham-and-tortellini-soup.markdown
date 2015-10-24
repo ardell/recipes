@@ -2,7 +2,7 @@
 layout: post
 title:  "Ham and Cheese Tortellini Soup"
 date:   2015-10-24 13:44:35
-categories: soups dinner
+tags: soups dinner
 ---
 
 Ingredients

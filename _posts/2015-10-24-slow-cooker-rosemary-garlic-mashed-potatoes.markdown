@@ -2,7 +2,7 @@
 layout: post
 title:  "Slow Cooker Rosemary Garlic Mashed Potatoes"
 date:   2015-10-24 14:40:55
-categories: sides
+tags: sides
 ---
 
 Ingredients

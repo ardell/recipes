@@ -2,7 +2,7 @@
 layout: post
 title:  "Brined and Roasted Turkey"
 date:   2015-10-24 13:36:05
-categories: dinner holiday
+tags: dinner holiday
 ---
 
 Ingredients

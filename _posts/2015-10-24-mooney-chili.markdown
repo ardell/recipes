@@ -2,7 +2,7 @@
 layout: post
 title:  "Chili (Mooney version)"
 date:   2015-10-24 12:52:35
-categories: soups dinner
+tags: soups dinner
 ---
 
 Ingredients
