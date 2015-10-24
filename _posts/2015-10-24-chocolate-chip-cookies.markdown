@@ -20,13 +20,15 @@ Ingredients
 Instructions
 ------------
 
-Combine flour, baking soda, and salt in a large bowl. In a medium size bowl,
+Let butter soften to room temperature.
+
+Combine flour, baking soda, and salt in a medium size bowl. In a large bowl,
 whisk melted butter, brown sugar, and white sugar together until no brown sugar
-lumps remain. Whisk in the egg, then the egg yolk, and the vanilla. Pour the
-wet ingredients into the dry ingredients and mix together. Fold in the
+lumps remain. Whisk in the egg, then the egg yolk, and the vanilla. Slowly mix
+the dry ingredients into the wet ingredients and mix together. Fold in the
 chocolate chips. Cover the dough and chill for 2 hours.
 
-Preheat the oven for 325 degrees. Line 2 large baking sheets with Parchment
+Preheat the oven for 325 degrees. Line 2 large baking sheets with parchment
 paper.
 
 Roll the dough into balls. Bake the cookies for 11-12 minutes. Allow to cool on
