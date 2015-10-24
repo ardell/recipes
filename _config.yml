@@ -4,8 +4,8 @@ email: ardell@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   These are the recipes we like. Try them out and pull request if you can make
   them better.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ardell.github.io/recipes" # the base hostname & protocol for your site
+baseurl: "/recipes" # the subpath of your site, e.g. /blog/
+url: "http://ardell.github.io" # the base hostname & protocol for your site
 github_username:  ardell
 
 # Build settings
