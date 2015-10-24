@@ -17,21 +17,21 @@ Ingredients
 - 1/4 cup raw cashews or 1/8 cup raw cashew butter
 - 4 cups baby spinach
 - 2 cups corn kernels *
-- 1/4 teaspoon black pepper or to taste 
+- 1/4 teaspoon black pepper or to taste
 
 Instructions
 ------------
 
 Add onion, garlic, zucchini, basil, thyme, oregano and vegetable broth to a
 large soup pot. Bring to a boil, reduce heat and simmer for 25 minutes or until
-zucchini is tender. 
+zucchini is tender.
 
 Pour into a food processor or high powered blender (in batches, if necessary),
-add the cashews and blend until smooth and creamy. 
+add the cashews and blend until smooth and creamy.
 
 Return soup to the pot, add corn and baby spinach, bring to a simmer and cook
 until spinach is wilted. Add water if needed to adjust consistency. Season with
-black pepper. 
+black pepper.
 
 **Note:** Use fresh or defrosted frozen corn kernels. If using fresh corn, boil 2 ears
 of corn until tender, about 4 minutes. Cut kernels from cobs with a sharp
