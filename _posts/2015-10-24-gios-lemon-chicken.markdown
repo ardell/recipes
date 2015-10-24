@@ -8,49 +8,58 @@ categories: dinner
 Ingredients
 -----------
 - 4 bone-in, skin-on chicken breasts
-- Olive oil, 2 tablespoons for the chicken, 2 tablespoons for the potatoes, 1/4 cup for the broth
-- Salt and pepper
-- Dry oregano, 1 teaspoon for the chicken, 1 teaspoon for the broth
-- 4 lemons (1 quartered to go in with the chicken, 1 to be zested then juiced for the broth, 1 more to be juiced for the broth, and 1 to be sliced into thin rounds for garnish)
-- 2 baking potatoes, rinsed and dried, sliced into 8 long wedges each
-- 1 cup chicken stock (I really like the Better than Bouillon brand concentrate)
-- 2 tablespoons grated Romano (or Parmesan) cheese
+- 24 new (red) potatoes, rinsed and dried
+- 4 lemons
+  - 1 quartered to go in with the chicken
+  - 1 to be zested then juiced for the broth
+  - 1 to be juiced for the broth
+  - 1 to be sliced into thin rounds for garnish
+- Olive oil
+  - 2 tablespoons for the chicken
+  - 2 tablespoons for the potatoes
+  - 1/4 cup for the broth
+- 3 tablespoons unsalted butter
+- 1 cup chicken stock
+- 2 tablespoons grated Romano or Parmesan cheese
 - 4 garlic cloves, finely chopped
 - 1 tablespoon chopped parsley, for garnish
+- Dry oregano
+  - 1 teaspoon for the chicken
+  - 1 teaspoon for the broth
+- 3 sprigs thyme
+- Salt and pepper
 
 Instructions
 ------------
-Preheat oven to 400 degrees.
 
-Rub the chicken with 2 tablespoons of olive oil, then sprinkle both sides
-generously with salt and pepper and 1 teaspoon oregano. Arrange chicken skin
-side up in a baking pan to cook. Throw in the quartered lemon. In a separate
-baking pan, toss the potato wedges with 2 tablespoons olive oil and a generous
-sprinkling of salt and pepper. (The chicken and potatoes can both be rubbed
-several hours in advance and refrigerated.)
+Whisk together the broth — zest of 1 lemon, juice of 2 lemons, 1/4 cup olive
+oil, chicken stock, grated cheese, 2 cloves chopped garlic, and 1 teaspoon
+oregano. Rub the chicken with 2 tablespoons of olive oil, then sprinkle both
+sides generously with salt and pepper and 1 teaspoon oregano. Place chicken,
+broth and quartered lemon in sous-vide circulator at 142 degrees fahrenheit for
+2 hours.
 
-Cook the chicken and potatoes until the chicken hits 165 degrees, roughly 50
-minutes.
+Cut potatoes in half. Place face-down in a single layer in a large skillet. Add
+2 cups of water, 3 sprigs thyme, 2 whole cloves garlic, 3 tablespoons unsalted
+butter. Heat over medium high until it simmers, then reduce to medium and cover
+for 15 minutes. Remove garlic and thyme. Turn heat up to medium high 15-20
+minutes until butter begins to sizzle. Allow to cook for an additional 4-6
+minutes. Mince garlic, add 1 tsp lemon juice and 1/4 tsp black pepper. Turn
+heat off potatoes. Add garlic mixture to potatoes.
 
-While the chicken and potatoes are cooking, whisk together the broth — zest of
-1 lemon, juice of 2 lemons, 1/4 cup olive oil, chicken stock, grated cheese,
-chopped garlic, and 1 teaspoon oregano.
+Heat 2 tablespoons of olive oil over medium-high in a stainless steel skillet
+until it just begins to smoke. Place chicken skin side down and sear until
+nicely browned.
 
-If you have a meat thermometer, check the chicken at 45 minutes to see if it
-has hit 165 degrees and has a light golden color to the skin. If not, give it a
-few more minutes then check again.
+For each person, place 4 potato halves and a chicken breast into a bowl, then
+spoon or pour in the sauce from the chicken pan.
 
-Once the chicken is ready, pull it out and switch the oven to broil. Leave the
-potatoes in for a few minutes as the broiler heats up to give them an extra
-crisp. Give the broth another quick whisk and pour over the chicken into the
-baking pan. Take the potatoes out of the oven, then broil the chicken for about
-3 minutes, until the skin is well browned and the broth is bubbling a bit.
-
-For each person, place 4 wedges of potato and a chicken breast into a bowl,
-then spoon or pour in the sauce from the chicken pan. Garnish with chopped
-parsley and thin slices of lemon.
+Garnish with chopped parsley and thin slices of lemon.
 
 Source
 ------
-[Creative Loafing Atlanta](http://m.clatl.com/atlanta/recreating-an-atlanta-restaurant-meal-at-home/Content?oid=9498655&showFullText=true)
+Adapted from:
+
+- [Creative Loafing Atlanta](http://m.clatl.com/atlanta/recreating-an-atlanta-restaurant-meal-at-home/Content?oid=9498655&showFullText=true)
+- America's Test Kitchen "Meat and Potatoes with Panache"
 
