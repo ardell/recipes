@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fruit Salad"
+title:  "Fruit Salad with Peaches, Blackberries, Strawberries, Basil & Black Pepper"
 date:   2015-10-24 13:30:16
 categories: sides breakfast
 ---
@@ -33,5 +33,5 @@ a time as necessary.
 
 Source
 ------
-Unknown
+[Cook's Illustrated](http://johnsmags.gotdns.com/johnsmags/mags/CI/87/CI-87.html#Peaches,_Blackberries,_and_Strawberries_with_Basil_and_Pepper)
 
