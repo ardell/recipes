@@ -8,12 +8,13 @@ tags: soups dinner
 Ingredients
 -----------
 - 1 rotisserie chicken
-- 12 cups chicken broth  
-- 1 cup orzo  
-- Juice of 4 medium-size lemons (about 2/3 cup)  
-- 4 large eggs at room temperature  
-- Coarsely cracked black peppercorns  
-- Lemon slices  
+- 12 cups chicken broth
+- 1 cup uncooked orzo
+- 5 medium-size lemons
+  - 4 for juicing (about 2/3 cup juice)
+  - 1 sliced thin for garnishing
+- 4 large eggs at room temperature
+- Coarsely cracked black peppercorns
 - 4 bay leaves
 - 1 onion, diced
 - 2 leeks, sliced
@@ -29,13 +30,16 @@ leaves. Bring it to a boil, reduce the heat, and simmer for about 1 hour.
 
 Strain the broth and set aside.
 
-Heat a small amount of olive oil in the pot and add the onion, leeks and
-carrots. Sautee for about 7 minutes, until onion is slightly browned. Blend
-vegetables to a puree and return to the pot.
+Heat a small amount of olive oil in the pot and add the onion. Sautee for 4
+minutes. Add leeks and sautee an additional 2 minutes. Add carrots and sautee
+for 1 minute.
 
-Add the broth and the orzo.  Bring to a boil, reduce the heat, cover and boil
-for 15 minutes or until the orzo is soft. Add the chicken. Leave the soup on
-the burner with the lid on but turn the burner off.
+Add 4 cups of broth to the vegetable mixture and immersion-blend vegetables to
+a puree.
+
+Add the rest of the broth and the orzo and bring to a boil. Reduce the heat,
+cover and boil for 15 minutes or until the orzo is soft. Add the chicken. Leave
+the soup on the burner with the lid on but turn the burner off.
 
 Whisk the lemon juice and eggs together in a small bowl. Add one ladle of warm
 soup broth to the lemon-egg mixture, whisking continually until incorporated.
