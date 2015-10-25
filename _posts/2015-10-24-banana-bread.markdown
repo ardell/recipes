@@ -7,16 +7,16 @@ tags: breads breakfast
 
 Ingredients
 -----------
-1 3/4 cups all-purpose flour
-1 teaspoon baking soda
-1/2 teaspoon table salt (fine salt not coarse)
-6 large (about 2 1/4 pounds) overripe (black) bananas
-8 tablespoons (1 stick) unsalted butter, melted and cooled slightly
-2 large eggs, slightly beaten
-3/4 cup packed light brown sugar
-1 teaspoon pure vanilla extract
-1/2 cup walnuts or pecans, toasted and coarsely chopped
-2 teaspoons granulated sugar (to top the unbaked loaf)
+- 1 3/4 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1/2 teaspoon table salt (fine salt not coarse)
+- 6 large (about 2 1/4 pounds) overripe (black) bananas
+- 8 tablespoons (1 stick) unsalted butter, melted and cooled slightly
+- 2 large eggs, slightly beaten
+- 3/4 cup packed light brown sugar
+- 1 teaspoon pure vanilla extract
+- 1/2 cup walnuts or pecans, toasted and coarsely chopped
+- 2 teaspoons granulated sugar (to top the unbaked loaf)
 
 Instructions
 ------------
