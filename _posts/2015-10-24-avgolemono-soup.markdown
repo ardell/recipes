@@ -13,7 +13,7 @@ Ingredients
 - 5 medium-size lemons
   - 4 for juicing (about 2/3 cup juice)
   - 1 sliced thin for garnishing
-- 4 large eggs at room temperature
+- 6 large eggs at room temperature
 - Coarsely cracked black peppercorns
 - 4 bay leaves
 - 1 onion, diced
@@ -32,13 +32,13 @@ Strain the broth and set aside.
 
 Heat a small amount of olive oil in the pot and add the onion. Sautee for 4
 minutes. Add leeks and sautee an additional 2 minutes. Add carrots and sautee
-for 1 minute.
+for 1 minute. Add salt and pepper to taste.
 
 Add 4 cups of broth to the vegetable mixture and immersion-blend vegetables to
 a puree.
 
-Add the rest of the broth and the orzo and bring to a boil. Reduce the heat,
-cover and boil for 15 minutes or until the orzo is soft. Add the chicken. Leave
+Add the rest of the broth and bring to a boil. Reduce heat, add the orzo, cover
+and simmer for 13 minutes or until the orzo is al dente. Add the chicken. Leave
 the soup on the burner with the lid on but turn the burner off.
 
 Whisk the lemon juice and eggs together in a small bowl. Add one ladle of warm
@@ -50,6 +50,8 @@ smooth. (The temperature of the soup will cook the egg.)
 
 Serve immediately, garnished with slices of lemon and coarsely ground black
 peppercorns.
+
+Makes 8 servings.
 
 Optional Orzo-free Version
 --------------------------
