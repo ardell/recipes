@@ -8,9 +8,9 @@ tags: sides holiday
 Ingredients
 -----------
 - 12 oz parsnips (cut on the bias into 1 inch pieces)
-- 12 oz carrots (cut into 2 1/2 inch lengths, cutting thicker end in half)
+- 4 carrots (cut into 2 1/2 inch lengths, cutting thicker end in half)
 - 1 celery root (14 oz, cut off ends, peel, cut into 3/4 inch thick, 2 1/2 inches long)
-- 1 turnip (cut off both ends, peel, cut into 8 pieces)
+- 12 oz turnips (cut off both ends, peel, cut into 8 pieces)
 - 5 oz small shallots, peels removed
 - 3 tablespoons vegetable oil
 - 1 teaspoon salt
