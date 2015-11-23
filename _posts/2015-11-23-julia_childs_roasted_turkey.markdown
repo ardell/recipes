@@ -102,5 +102,5 @@ Slice the thighs and breasts and serve.
 
 Source
 ------
-- America's Test Kitchen, Season 14, Episode
+- America's Test Kitchen, Season 14, Episode 9
 
