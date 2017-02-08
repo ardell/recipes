@@ -5,6 +5,7 @@ Visit [http://ardell.github.io/recipes/](http://ardell.github.io/recipes/)
 To add a recipe
 ---------------
 
+- Make sure you are on the `gh-pages` branch
 - Go to the `_posts` folder
 - Click on the 'Create New File' button (top right)
 - Name the file using the date and the name of the recipe (eg ``)
@@ -53,7 +54,9 @@ Source
 ------
 [BakinBit.com](http://www.bakinbit.com/2013/05/17/bluth-frozen-bananas-and-ice-cream-sandwiches-with-homemade-chocolate-cookies-and-gelato/)
 ```
-- Name the 'commit' (generally something like 'Add frozen bananas recipe') and click the green 'Commit changes' button.
+- Name the 'commit' (generally something like 'Add frozen bananas recipe')
+- Select 'commit directly to the `gh-pages` branch' option
+- Click the green 'Commit changes' button.
 - And you're done!
 
 To run locally
