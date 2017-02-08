@@ -9,9 +9,9 @@ To add a recipe
 - Click on the 'Create New File' button (top right)
 - Name the file using the date and the name of the recipe (eg ``)
 - Use an existing recipe as a template.
--- Must have the meta data at the top (layout, title, date, tags).
--- Use [markdown syntax](https://daringfireball.net/projects/markdown/syntax)
--- Example:
+Must have the meta data at the top (layout, title, date, tags).
+Use [markdown syntax](https://daringfireball.net/projects/markdown/syntax)
+Example:
 ```
 ---
 layout: post
