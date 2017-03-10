@@ -16,6 +16,5 @@ Ideas
 - [Goat Cheese Burger with Baked Zucchini Fries](https://www.dietdoctor.com/recipes/goat-cheese-burger-baked-zucchini-fries)
 - [Stuffed Mushrooms](https://www.dietdoctor.com/recipes/stuffed-mushrooms)
 - [Asian Meatballs with Thai Basil Sauce](https://www.dietdoctor.com/recipes/asian-meatballs-thai-basil-sauce)
-- [Baked Sweet Potato Fries](https://www.dietdoctor.com/recipes/baked-sweet-potato-fries)
 - [Oven-Baked Rutabaga Wedges](https://www.dietdoctor.com/recipes/oven-baked-rutabaga-wedges)
 
