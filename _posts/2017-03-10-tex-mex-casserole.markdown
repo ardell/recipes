@@ -2,7 +2,7 @@
 layout: post
 title:  "Tex-Mex Casserole"
 date:   2017-03-10 19:00:00
-tags: dinner, keto
+tags: dinner keto
 ---
 
 Ingredients
