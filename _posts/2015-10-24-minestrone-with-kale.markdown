@@ -2,7 +2,7 @@
 layout: post
 title:  "Minestrone Soup with Kale"
 date:   2015-10-24 12:52:35
-tags: soups dinner
+tags: soups dinner keto
 ---
 
 Ingredients
