@@ -42,5 +42,6 @@ Process for:
 Sources
 ------
 Recipe: [Simply Canning](http://www.simplycanning.com/dandelion-jelly.html)
+
 Canning Basics: [Serious Eats: Beginner Guide to Canning](http://www.seriouseats.com/2012/02/how-to-can-canning-pickling-preserving-ball-jars-materials-siphoning-recipes.html)
 

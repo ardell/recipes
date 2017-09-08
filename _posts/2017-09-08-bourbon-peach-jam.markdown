@@ -51,5 +51,6 @@ keep in the refrigerator for about six months.
 Sources
 ------
 Recipe: [Serious Eats](http://www.seriouseats.com/recipes/2011/07/bourbon-peach-jam-recipe.html)
+
 Canning Basics: [Serious Eats: Beginner Guide to Canning](http://www.seriouseats.com/2012/02/how-to-can-canning-pickling-preserving-ball-jars-materials-siphoning-recipes.html)
 
