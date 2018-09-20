@@ -11,9 +11,9 @@ Ingredients
 - 7 1/2 cups granulated sugar
 - 1/4 cup freshly squeezed lemon juice
 - 1/2 cup bourbon
-- 1 cinnamon stick
-- 1 vanilla bean, split lengthwise
-- 1/2 teaspoon unsalted butter
+- 2 cinnamon sticks
+- 1 vanilla bean, split lengthwise or 3 tsp vanilla extract
+- 1 tbsp unsalted butter
 - One (6-ounce) package liquid pectin (two foil packets)
 
 Instructions
