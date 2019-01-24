@@ -5,7 +5,7 @@ date:   2018-11-29 18:50:00
 tags: soups dinner
 ---
 
-![Ingredients](/assets/chicken-chili-4.jpg)
+![Final]({{ site.url }}/recipes/assets/chicken-chili-4.jpg)
 
 Ingredients
 -----------
@@ -38,17 +38,17 @@ Additionally for garnish:
 
 Instructions
 ------------
-![Ingredients](/assets/chicken-chili-1.jpg)
+![Ingredients]({{ site.url }}/recipes/assets/chicken-chili-1.jpg)
 
 Dice peppers, onion and carrots (to bite-size or as desired, depending on how chunky you like your soup).
 
 Heat some olive oil in a stock pot or dutch oven over medium to high heat. Add the diced vegetables and 2-3 pinches of salt and sautee until carrots are tender.
 
-![Ingredients](/assets/chicken-chili-2.jpg)
+![Sautee]({{ site.url }}/recipes/assets/chicken-chili-2.jpg)
 
 Add the cumin, garlic and coriander. Stir until combined and sautee another 30-60 seconds.
 
-![Ingredients](/assets/chicken-chili-3.jpg)
+![Seasoned]({{ site.url }}/recipes/assets/chicken-chili-3.jpg)
 
 Add the jar of green chile and combine. Add about 1 qt of chicken stock and stewed tomatoes. Cut up stewed tomatoes into smaller, bite-size chunks using kitchen shears or similar.
 
@@ -74,7 +74,7 @@ Shred the chicken and add back to the pot. Squeeze in juice from 1/2 of a lime. 
 
 Don't forget to garnish as you like.
 
-![Ingredients](/assets/chicken-chili-5.jpg)
+![Garnish]({{ site.url }}/recipes/assets/chicken-chili-5.jpg)
 
 Sources
 ------
