@@ -19,7 +19,7 @@ Ingredients
 - 1 small lime
 - about 1 lb pepper jack cheese, shredded
 - 1 cup heavy cream
-- 1 cup flour
+- 1 cup flour or 1/2 cup cornstarch
 - 1.5 qt low sodium chicken stock
 - 1 tbspn ground cumin
 - 8 cloves minced garlic
@@ -64,7 +64,7 @@ Add the jar of green chile and combine. Add about 1 qt of chicken stock and stew
 - Transfer chicken breasts to a bowl and let rest.
 - Meanwhile, continue simmering broth about 1.5 hrs total. Turn off heat.
 
-Make a roux in a small bowl with about 1 cup heavy cream and 1 cup flour. Temper the mixture by adding small amounts of hot broth from the pot to the mixing bowl, stirring until combined before adding more. Continue until bowl is warm to the touch. Add back into the pot and stir.
+Make a roux in a small bowl with about 1 cup heavy cream and flour or cornstarch. Temper the mixture by adding small amounts of hot broth from the pot to the mixing bowl, stirring until combined before adding more. Continue until bowl is warm to the touch. Add back into the pot and stir.
 
 Add the beans.
 
