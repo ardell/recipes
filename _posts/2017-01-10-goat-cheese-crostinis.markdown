@@ -17,10 +17,10 @@ Instructions
 Slice French bread on the bias. Spread out on a cookie sheet and toast in the
 oven.
 
-On each slide, spread a small spoonful of goat cheese. Drizzle with honey and
+On each slice, spread a small spoonful of goat cheese. Drizzle with honey and
 sprinkle with fresh cracked pepper.
 
 Sources
 ------
-Toast
+[Toast](https://www.toast-fivepoints.com)
 
