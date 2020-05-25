@@ -31,17 +31,24 @@ Ingredients
 
 Instructions
 ------------
-1. Preheat oven to 350 degrees F.
+1. Preheat oven to 350° F, with a rack in the middle of the oven.
 
-2. In a large skillet, cook the onion, garlic, celery, carrot and scallion in butter over medium heat, stirring, for 5 minutes.
+2. In a large skillet, melt the butter. When it starts to foam, add the onions,
+celery, carrot, green onions, garlic and sauté for 5 minutes.
 
-3. Cover and stir occasionally for an additional 5 minutes, until carrots are tender.
+3. Cover and cook for another 5 minutes, stirring occasionally, until carrots are tender.
 
 4. Stir in salt, pepper, Worcestershire sauce and 1/3 cup ketchup. Cook for 1 more minute.
+Remove from heat.
 
-5. In a large bowl, combine meats, eggs, bread crumbs, vegetables and parsley. Form into a loaf and place in rectangular baking pan with 2 inch high sides. Cover loaf with remaining ketchup.
+5. In a large bowl, combine meats, eggs, bread crumbs, vegetables and parsley.
+Form into a loaf and place in rectangular baking pan with 2 inch high sides.
+Cover loaf with remaining ketchup.
 
-6. Bake in oven for 1 hour.
+6. Bake in oven for 1 hour, or until a meat thermometer inserted into the center
+of the meatloaf reads 155°F. Remove from oven and let sit for 10 minutes. Then
+use a metal spatula to gently lift the meatloaf out of the loaf pan to a
+serving plate.
 
 Makes 4-6 servings.
 
