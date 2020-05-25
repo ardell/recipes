@@ -40,7 +40,7 @@ in as I separate.
 You don't have to be too meticulous about getting rid of all the greens, but the fewer the better.
 While you can use scissors or kitchen shears to cut off the bulk of the green, I prefer to use my fingers.
 
-Because of the way the dandelions spread their seeds, there is a sort of natural preferation where each
+Because of the way the dandelions spread their seeds, there is a sort of natural perforation where each
 petal is attached to the rest of the flower. I take each bud and split it open in half (by ripping). Then
 I take each half and pinch just above and below the perforation and bend to break the perforation, then simply
 slide my thumb along to pull all the petals loose and drop them into my saucepan. There will be a few left behind that
