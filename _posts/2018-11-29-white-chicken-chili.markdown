@@ -2,7 +2,7 @@
 layout: post
 title:  "White Chicken Chili"
 date:   2018-11-29 18:50:00
-tags: soups dinner
+tags: soups dinner favorites
 ---
 
 ![Final]({{ site.url }}/recipes/assets/chicken-chili-4.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title:  "72-hour Short Ribs"
 date:   2015-10-24 14:34:38
-tags: dinner
+tags: dinner favorites
 ---
 
 Ingredients

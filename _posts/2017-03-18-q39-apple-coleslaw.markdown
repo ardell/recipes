@@ -2,7 +2,7 @@
 layout: post
 title:  "Q39's Apple Coleslaw"
 date:   2017-03-18 21:28:05
-tags: sides
+tags: sides favorites
 ---
 
 Dressing

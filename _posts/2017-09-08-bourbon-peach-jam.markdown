@@ -2,7 +2,7 @@
 layout: post
 title:  "Bourbon Peach Jam"
 date:   2017-09-08 19:00:00
-tags: jams-and-jellies breakfast
+tags: jams-and-jellies breakfast favorites
 ---
 
 Ingredients

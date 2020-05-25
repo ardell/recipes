@@ -2,7 +2,7 @@
 layout: post
 title:  "Crustless Quiche"
 date:   2018-09-24 09:00:00
-tags: breakfast
+tags: breakfast favorites
 ---
 
 Ingredients
