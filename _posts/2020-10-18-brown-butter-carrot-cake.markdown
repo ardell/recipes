@@ -2,7 +2,7 @@
 layout: post
 title:  "Brown Butter Carrot Cake"
 date:   2020-10-18 09:00:00
-tags: sides
+tags: desserts
 ---
 
 YIELDS: 16 servings
