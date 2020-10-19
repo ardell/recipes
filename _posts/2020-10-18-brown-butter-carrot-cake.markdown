@@ -33,7 +33,7 @@ To Finish:
 
 Instructions
 ------------
-1. *Getting Ready:* To better synchronize the downtime in both recipes, prepare
+1. **Getting Ready:** To better synchronize the downtime in both recipes, prepare
    the Cream Cheese Buttercream before the cake.
 
 2. Adjust oven rack to the middle position and preheat to 350°F (180°C).
@@ -52,7 +52,7 @@ Instructions
    measuring cup, along with all the toasty brown bits, and proceed as
    directed, or cover and refrigerate up to 1 week; melt before using.
 
-6. *For the Cake*: Adjust oven rack to lower-middle position and preheat to
+6. **For the Cake**: Adjust oven rack to lower-middle position and preheat to
    350°F (180°C). Lightly grease three 8-inch anodized aluminum cake pans and
    line with parchment (explanation and tutorial here). If you don’t have three
    pans, it’s okay to bake the cakes in stages; the batter will keep at room
@@ -80,7 +80,7 @@ Instructions
    return cakes right side up (covered in plastic, the cakes can be left at
    room temperature for a few hours). Prepare the buttercream.
 
-12. *For the Crumb Coat*: Level cakes with a serrated knife (full directions
+12. **For the Crumb Coat**: Level cakes with a serrated knife (full directions
    here) and set the scraps aside for snacking. Place one layer on a heavy cast
    iron turntable. If you like, a waxed cardboard cake round can first be
    placed underneath, secured to the turntable with a scrap of damp paper
@@ -101,6 +101,8 @@ Instructions
 Sources
 ------
 [BraveTart via Serious Eats](https://www.seriouseats.com/recipes/2017/10/carrot-cake-recipe.html)
+
 [BraveTart Cream Cheese Frosting](https://www.seriouseats.com/recipes/2017/10/cream-cheese-buttercream-recipe.html)
+
 [Sugar Spun Run Cream Cheese Frosting](https://sugarspunrun.com/cream-cheese-frosting/)
 
