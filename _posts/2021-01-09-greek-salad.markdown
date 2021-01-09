@@ -28,11 +28,11 @@ Instructions
 ------------
 1. Place the vegetables in a large bowl.
 
-2. Whisk together the garlic, oregano, mustard, vinegar, salt and pepper in a small bowl.
+2. Whisk together the garlic, oregano, mustard, vinegar, salt and pepper in a
+   small bowl. Still whisking, slowly add the olive oil to make an emulsion.
 
-3. Still whisking, slowly add the olive oil to make an emulsion. Pour the
-   vinaigrette over the vegetables. Add the feta toss lightly.
-   Set aside for 30 minutes to allow the flavors to blend. Serve at room
+3. Pour the vinaigrette over the vegetables. Add the feta and toss lightly. Set
+   aside for 30 minutes to allow the flavors to blend. Serve at room
    temperature.
 
 
