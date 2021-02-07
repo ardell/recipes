@@ -23,7 +23,7 @@ Instructions
 ------------
 Note: Steps 2-4 can be done in parallel.
 
-1. Dry age the lamb 2 days ahead: Salt the lamb generously on both sides. Place
+1. Dry age the lamb: Salt the lamb generously on both sides. Place
    on a wire rack on a cookie sheet in the refrigerator for at least 24 hrs.
    Dry off with a paper towel before cooking.
 
@@ -36,7 +36,7 @@ Note: Steps 2-4 can be done in parallel.
 4. Lightly butter or oil a stovetop grill (or the lamb itself if using an outdoor grill),
    then grill until medium rare. Cut into cubes.
 
-5. Combine quinoa, parsley, lemon zest and lemon in a bowl. Top with leeks and then lamb. Enjoy!
+5. Place quinoa in a bowl and add parsley, lemon zest and lemon to taste. Top with leeks and then lamb. Enjoy!
 
 
 Sources
