@@ -7,7 +7,7 @@ tags: dinner
 
 Ingredients
 -----------
-- 4 eaches skinless, boneless chicken breast halves
+- 4 skinless, boneless chicken breast halves
 - 1 pinch salt and freshly ground black pepper to taste
 - 2 eggs
 - 1 cup panko bread crumbs, or more as needed
