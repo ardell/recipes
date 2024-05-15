@@ -8,7 +8,8 @@ tags: dinner soups
 Ingredients
 -----------
 - Extra virgin olive oil
-- 2 cups dry orzo - 6 cups broth
+- 2 cups dry orzo
+- 6 cups broth
 - 1 cup cherry tomatoes, halved
 - 2 cups packed baby spinach
 - Juice of 1 to 2 lemons
