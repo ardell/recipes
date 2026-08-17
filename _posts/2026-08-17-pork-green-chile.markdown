@@ -2,7 +2,7 @@
 layout: post
 title:  "Pork Green Chile"
 date:   2026-08-17 09:00:00
-tags: dinner
+tags: dinner breakfast soups
 ---
 
 Ingredients

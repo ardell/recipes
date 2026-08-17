@@ -2,7 +2,7 @@
 layout: post
 title:  "Maple Bacon Monkey Bread"
 date:   2016-02-17 11:11:00
-tags: breakfast desserts
+tags: breakfast desserts breads
 ---
 
 Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title:  "Buttermilk Biscuits"
 date:   2020-08-13 09:00:00
-tags: breakfast
+tags: breakfast breads
 ---
 
 PREP: 20 minutes, plus at least 30 minutes chilling
